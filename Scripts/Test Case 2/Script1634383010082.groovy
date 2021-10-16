@@ -27,9 +27,5 @@ WebUI.switchToWindowTitle('How Google uses cookies – Privacy & Terms – Googl
 
 WebUI.click(findTestObject('Object Repository/Page_How Google uses cookies  Privacy  Term_45c777/svg_How Google retains data that we collect_BRAaEe'))
 
-WebUI.click(findTestObject('Object Repository/Page_How Google uses cookies  Privacy  Term_45c777/svg_How Google retains data that we collect_BRAaEe'))
-
-WebUI.click(findTestObject('Object Repository/Page_How Google uses cookies  Privacy  Term_45c777/a_Managing cookies in your browser'))
-
 WebUI.closeBrowser()
 
