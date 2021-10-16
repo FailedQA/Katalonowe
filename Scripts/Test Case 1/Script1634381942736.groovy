@@ -19,6 +19,12 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
+WebUI.openBrowser('')
+
+WebUI.closeBrowser()
+
+WebUI.openBrowser('')
+
 WebUI.navigateToUrl('https://www.google.com/?gws_rd=ssl')
 
 WebUI.click(findTestObject('Object Repository/Page_Google/div_I agree'))
